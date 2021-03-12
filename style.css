@@ -11,8 +11,8 @@ Powered by Super.so
 
 @font-face {
     font-family: 'ny';
-    src:  url('https://sites.super.so/slite/assets/ny.woff') format('woff'),
-          url('https://sites.super.so/slite/assets/ny.ttf') format('truetype');
+    src:  url('https://github.com/dryshirt/portfolio/blob/master/assets/ny.woff?raw=true') format('woff'),
+          url('https://github.com/dryshirt/portfolio/blob/master/assets/ny.ttf?raw=true') format('truetype');
 }
 
 /*-------------------------------------------*/
